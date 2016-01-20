@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+#tit1{
+	color: blue;
+	font-family: "Comic",cursive;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+#subTit{
+	color: red;
+	font-family: "Courier", monospace;
+	font-style: italic;	
+	text-align: center;
+}
